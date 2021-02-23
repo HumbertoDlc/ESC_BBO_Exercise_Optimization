@@ -1,0 +1,19 @@
+Hollys:
+
+Frequency = 1. Solution = 96.7
+Frequency = 1. Solution = 35.6
+ 
+Frequency = 0.1. Solution = 15.5
+Frequency = 1.2. Solution = 215.9
+ 
+Frequency = 0.1. Solution = 203.8
+Frequency = 2.0. Solution = 38.4
+ 
+Frequency = 0.1. Solution = 22.7
+Frequency = 2.0. Solution = 4.1
+ 
+Frequency = 0.1. Solution = 18.6
+Frequency = 2.4. Solution = 350.3
+ 
+Frequency = 0.1. Solution = 18.3
+Frequency = 1.8. Solution = 252.6

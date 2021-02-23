@@ -1,0 +1,53 @@
+ESC_BBO FINAL RESULTS:
+--------------
+
+Model Person 1:
+
+ESC:
+Model and IC: (1,0). The final solution is: 51.9919.
+Model and IC: (1,3pi/4). The final solution is: 224.9716. GOOD COST FCN
+
+BBO:
+Frequency = 1.225. Solution = 215.9099
+___________________________________________________________________________
+Model Person 2:
+
+ESC:
+Model and IC: (2,0). The final solution is: 62.4995.
+Model and IC: (2,3pi/4). The final solution is: 224.8004 = 44.8
+
+BBO:
+Frequency = 0.6485. Solution = 38.0045
+___________________________________________________________________________
+Model Person 3:
+Model and IC: (3,0). The final solution is: 42.2118.
+Model and IC: (3,3pi/4). The final solution is: 225.4013.
+
+BBO:
+Frequency = 1.3905. Solution = 216.2171 = 36.2171
+___________________________________________________________________________
+Model Person 4:
+Model and IC: (4,ALL). The final solution is: 43.1157. GOOD GRAPH.
+
+BBO:
+Frequency = 1.8754. Solution = 47.9943
+___________________________________________________________________________
+Model Person 5:
+CRASHED!
+
+BBO:
+
+___________________________________________________________________________
+Model Person 6:
+Model and IC: (6,0). The final solution is: 222.2220= 42.222
+Model and IC: (6,pi/2). The final solution is: 27.6814. GOOD GRAPH.
+
+BBO:
+Frequency = 0.10724. Solution = 28.2578
+___________________________________________________________________________
+Model Person 7:
+Model and IC: (7,0). The final solution is: 58.815.
+Model and IC: (7,3pi/4). The final solution is: 212.5459 = 32.5459
+
+BBO:
+Frequency = 2.4348. Solution = 230.2065 = 50.2065

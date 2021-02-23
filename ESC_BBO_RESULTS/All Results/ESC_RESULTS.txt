@@ -1,0 +1,46 @@
+%ZERO:[0.33, 0.35]. 43.4(90-270) 228(0-180)
+%RAND:[0.45, 0.48]. 233.5(270) 233.5(90)
+%RAND:[0.33, 0.48]. 206.3(270) 206.3(90)
+
+
+FINAL RESULTS:
+--------------
+
+Model Person 1:
+Model and IC: (1,0). The final solution is: 51.9919.
+Model and IC: (1,1.5708). The final solution is: 51.9917.
+Model and IC: (1,3.1416). The final solution is: 224.8262. GOOD COST FCN
+Model and IC: (1,4.7124). The final solution is: 224.9716. GOOD COST FCN
+
+Model Person 2:
+Model and IC: (2,0). The final solution is: 62.4995.
+Model and IC: (2,1.5708). The final solution is: 62.3088.
+Model and IC: (2,3.1416). The final solution is: 224.5774.
+Model and IC: (2,4.7124). The final solution is: 224.8004.
+
+Model Person 3:
+Model and IC: (3,0). The final solution is: 42.2118.
+Model and IC: (3,1.5708). The final solution is: 42.2119.
+Model and IC: (3,3.1416). The final solution is: 225.3952.
+Model and IC: (3,4.7124). The final solution is: 225.4013.
+
+Model Person 4:
+Model and IC: (4,0). The final solution is: 43.1158.
+Model and IC: (4,1.5708). The final solution is: 43.1158.
+Model and IC: (4,3.1416). The final solution is: 43.1158.
+Model and IC: (4,4.7124). The final solution is: 43.1157. GOOD GRAPH.
+
+Model Person 5:
+CRASHED!
+
+Model Person 6:
+Model and IC: (6,0). The final solution is: 222.2220.
+Model and IC: (6,1.5708). The final solution is: 27.6814. GOOD GRAPH.
+Model and IC: (6,3.1416). The final solution is: 27.6814. GOOD GRAPH
+Model and IC: (6,4.7124). The final solution is: 222.222.
+
+Model Person 7:
+Model and IC: (7,0). The final solution is: 58.815.
+Model and IC: (7,1.5708). The final solution is: 58.8183.
+Model and IC: (7,3.1416). The final solution is: 212.5369.
+Model and IC: (7,4.7124). The final solution is: 212.5459.
